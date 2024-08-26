@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Friday-Voice Assistant",
+    "desc": " Mini-Voice Assistant built with HTML,CSS &Javascript for better interaction and user experience.",
+    "image": "Friday",
+    "category": "Major",
+    "links": {
+      "view": "https://bkfridayai.netlify.app/",
+      "code": "https://github.com/bharathkumar8056/Friday-AI"
+    }
+  },
+  {
+    "name": "Clone of College Website",
+    "desc": "Cloned College Website using HTML,CSS,Bootstrap and JS for responsive design interaction elements.",
+    "image": "kasc",
+    "category": "Major",
+    "links": {
+      "view": "https://kasc.netlify.app/",
+      "code": "https://github.com/bharathkumar8056/sppu-prep-android "
+    }
+  }
+  ,
+  {
+    "name": "Weather App",
+    "desc": "Built a Weather Application using HTML,CSS,JS and Weather-API for monitoring live weather updates and sleeky design.",
+    "image": "Weather",
+    "category": "Major",
+    "links": {
+      "view": "https://weatherity.netlify.app/",
+      "code": "https://github.com/bharathkumar8056/weather"
+    }
+  },
+  {
+    "name": "Client Work-Workerss",
+    "desc": "Built a website for the client for their business startup named workerss which connects the job seekers and job providers.",
+    "image": "Workerss",
+    "category": "Major",
+    "links": {
+      "view": "https://workerss.co.in/",
+      "code": "https://github.com/bharathkumar8056/workerss"
+    }
+  },
+  {
+    "name": "Todo-List",
+    "desc": "Built a todo-list website using HTML,CSS,JS and Bootstrap for Responsive Design and interactive elements.",
+    "image": "Todo",
+    "category": "Major",
+    "links": {
+      "view": "https://todolistbkb.netlify.app/",
+      "code": "https://github.com/bharathkumar8056/todo-list"
+    }
+  },
+  {
+    "name": "Tic-Tac Toe Game",
+    "desc": "Built a Tic-Tac Game website using HTML,CSS,JS for Responsive Design and interactive elements.",
+    "image": "Tictac",
+    "category": "Major",
+    "links": {
+      "view": "https://tictakxo.netlify.app",
+      "code": "https://github.com/bharathkumar8056/tic-tac"
+    }
+  },
+  {
+    "name": "Digital Clock",
+    "desc": "Built a digital clock website using HTML,CSS,JS for Responsive Design and interactive elements.",
+    "image": "Digital Clock",
+    "category": "others",
+    "links": {
+      "view": "https://digitalclockbk.netlify.app",
+      "code": "https://github.com/bharathkumar8056/digital-clock"
+    }
+  },
+  {
+    "name": "2 Number Calculator",
+    "desc": "Built a 2 number calculator website using HTML,CSS,JS for Responsive Design and interactive elements.",
+    "image": "2numcal",
+    "category": "others",
+    "links": {
+      "view": "https://2numcalculator.netlify.app",
+      "code": "https://github.com/bharathkumar8056/2numcalc"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Built a Calculator website using HTML,CSS,JS for Responsive Design and interactive elements.",
+    "image": "calc",
+    "category": "others",
+    "links": {
+      "view": "https://bkcalculator1.netlify.app",
+      "code": "https://github.com/bharathkumar8056/Calculator"
+    }
+  }
+]
